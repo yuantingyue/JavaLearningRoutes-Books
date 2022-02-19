@@ -4,7 +4,7 @@
 >
 > 部分书籍为本Java学习路线的配套电子书，目前大约60本书，并不要求全部阅读。
 >
-> 方便查看> README.md 左边目录 **||**Ctrl + F 查找书名 
+> 方便查看> README.md 左边目录 || Ctrl + F 查找书名 
 
 <p align="center">
     <a href="https://github.com/yuantingyue/" target="_blank">
