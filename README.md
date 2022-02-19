@@ -1,10 +1,10 @@
 # JavaLearningRoutes-Books
 
->  Java 学习路线 **&&** 编程相关书籍 **&&** <font color="#ff4500">**持续更新中……**</font>
+>  Java 学习路线 **&&** 编程相关书籍 **&&** **持续更新中……**
 >
 > 部分书籍为本Java学习路线的配套电子书，目前大约60本书，并不要求全部阅读。
 >
-> 方便查看> README.md 左边目录 **||**<font color="#00CC33"> **Ctrl + F 查找书名 **</font>
+> 方便查看> README.md 左边目录 **||**Ctrl + F 查找书名 
 
 <p align="center">
     <a href="https://github.com/yuantingyue/" target="_blank">
