@@ -27,6 +27,8 @@
 **Java 学习路线**
 
 > 版本库思维导图：[Java学习路线](./MindMap/)
+>
+> 在线版思维导图：[Java学习路线--在线版](https://www.processon.com/view/620e6f445653bb4ec5c1c564)
 
 ![Java学习路线](https://images.cnblogs.com/cnblogs_com/dennyLee2025/2111134/o_220221022013_Java%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E6%80%BB%E5%9B%BE.png)
 
