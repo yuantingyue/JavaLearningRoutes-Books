@@ -39,7 +39,7 @@ PS：百度网盘的提取码不需要手动输入👌已安排好👇
 # Java
 
 - 疯狂Java讲义-第5版   [下载链接](https://pan.baidu.com/s/1QypG4UIMsynZA_DkcMopCg?pwd=yzd8)
-- Java核心技术卷1：基础知识（原书第10版） [下载链接](https://pan.baidu.com/s/10TMGcXpQkbhGnMvLX7EYeQ?pwd=x3gp)
+- Java核心技术卷1：基础知识（原书第10版） [下载链接](https://pan.baidu.com/s/1n05Gd2AG8xIZsD1N3RQrCQ?pwd=v7xs)
 - Effective Java 中文第二版 [下载链接](https://pan.baidu.com/s/1QeBsGTu_TSjNWpt0ddqqQA?pwd=zuxc)
 - 深入分析Java Web技术内幕(修订版) [下载链接](https://pan.baidu.com/s/1N0b2NZXg4Tel33KSokrXRg?pwd=3g2z)
 - Java并发编程实战  [下载链接](https://pan.baidu.com/s/1hrzYoOQ47tpfv332AZ-6Dg?pwd=ka6s)
